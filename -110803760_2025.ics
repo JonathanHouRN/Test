@@ -1,0 +1,117 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:-//Rinknet
+X-PUBLISHED-TTL:PT1H
+
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=America/Los_Angeles:20251104T190000
+DTEND;TZID=America/Los_Angeles:20251104T220000
+DTSTAMP:20251104T184430
+UID:Game_-49700874_Rinknet
+SEQUENCE:57579
+LOCATION:Honda Center
+SUMMARY:Florida @ Anaheim
+DESCRIPTION:\nLocal Time: 7:00 PM PST\nArena:Honda Center\nhttps://www.google.com/maps?q=Honda+Center\nFrom Orange County John Wayne -- 55 North to 22 West...22 West to 57 North...exit Katella Avenue\, arena is on the right.\n\nFrom LAX: \n105 East to 605 South\n605 South to 91 East\n91 East to 57 South\nexit Katella Avenue and area is on the left.
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=America/New_York:20251104T191500
+DTEND;TZID=America/New_York:20251104T204500
+DTSTAMP:20251104T184430
+UID:Game_-49694807_Rinknet
+SEQUENCE:57579
+LOCATION:N/A
+SUMMARY:Miss. Rebels @ Mark. Majors
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=America/New_York:20251104T191500
+DTEND;TZID=America/New_York:20251104T204500
+DTSTAMP:20251104T184430
+UID:Game_-49694806_Rinknet
+SEQUENCE:57579
+LOCATION:N/A
+SUMMARY:Tor Red Wings @ North York
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=America/New_York:20251104T192500
+DTEND;TZID=America/New_York:20251104T205500
+DTSTAMP:20251104T184430
+UID:Game_-49694805_Rinknet
+SEQUENCE:57579
+LOCATION:Scotiabank Pond
+SUMMARY:Don Mills @ Toronto Nationals
+DESCRIPTION:\nLocal Time: 7:25 PM EST\nArena:Scotiabank Pond\nhttps://www.google.com/maps?q=Scotiabank+Pond\nDriving Instructions:\n\nFrom Downtown Toronto: \nUniversity Ave. north approx. 4.5 km to St. Clair Avenue. Turn left on St. Clair Ave. and proceed west approx. 1.5 km to Bathurst Street. Turn right on Bathurst St. and proceed north approx. 2 km to Eglinton Avenue. Turn left on Eglinton Ave. and proceed west approx. 0.75 km to Allen Road. Turn right on Allen Rd. and proceed north approx. 6.25 km to Sheppard Avenue. Turn left on Sheppard Ave. and proceed west approx. 2.5 km to John Drury Drive. Turn left on John Drury Dr. and proceed approx. 0.25 km to Carl Hall Road. Turn left on Carl Hall Rd. and proceed east approx. 0.4 km to arena on the right (just past railroad tracks).\n\nFrom Keele Street: \nEast on Sheppard Ave. approx. 2.5 km to 1st traffic light (John Drury Drive). Turn right on John Drury Dr. proceed and proceed approx. 0.25 km to stop sign (Carl Hall Road). Turn left on Carl Hall Rd. and proceed approx. 0.4 km to arena on the right (just past railroad tracks).\n\nFrom the East (Oshawa): \nHwy-401 to Hwy-401 Express West. Continue west on Hwy-401 Express approx. 33 km to Allen Rd. (exit 365). Merge onto Allen Rd. north and proceed approx. 2.75 km to Sheppard Avenue. Turn left on Sheppard Ave. and proceed west approx. 2.5 km to John Drury Drive. Turn left on John Drury Dr. and proceed approx. 0.25 km to Carl Hall Road. Turn left on Carl Hall Rd. and proceed east approx. 0.4 km to arena on the right (just past railroad tracks).\n\nFrom the West (Kitchener): \nHwy-401 east to Hwy-401 Express East. Continue east of Hwy-401 Express approx. 6.5 km to Hwy-401 East. Continue east of Hwy-401 approx. 4.75 km to Hwy-401 Express East. Continue east of Hwy-401 Express approx. 5 km to Hwy-401 Collectors East. Continue east on Hwy-401 Collectors approx. 1.5 km to Keele St. (exit 362). Turn left on Keele St. and proceed north approx. 2.75 km to Sheppard Avenue. Turn right on Sheppard Ave. and proceed approx. 0.5 km to John Drury Drive. Turn right on John Drury Dr. and proceed approx. 0.25 km to Carl Hall Road. Turn left on Carl Hall Rd. and proceed east approx. 0.4 km to arena on the right (just past railroad tracks).
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=America/New_York:20251104T193000
+DTEND;TZID=America/New_York:20251104T213000
+DTSTAMP:20251104T184430
+UID:Game_-49693479_Rinknet
+SEQUENCE:57579
+LOCATION:Duncan McDonald Memorial Gardens
+SUMMARY:OJHL Prospects 1 @ OJHL Prospects 2
+DESCRIPTION:\nTournament: OJHL Prospects Series\nLocal Time: 7:30 PM EST\nArena:Duncan McDonald Memorial Gardens\nhttps://www.google.com/maps?q=Duncan+McDonald+Memorial+Gardens\nFormally known as Trenton Community Gardens\n\nHwy 401 east to Hwy 33: \nSouth on Hwy 33 to Dundas Street in Trenton\nTurn left on Dundas\, go over the bridge\, and turn right onto Couch Crescent (approx 5-10 min from Hwy 401).
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=America/Chicago:20251104T193000
+DTEND;TZID=America/Chicago:20251104T210000
+DTSTAMP:20251104T184430
+UID:Game_-33550512_Rinknet
+SEQUENCE:57579
+LOCATION:Martensville Recreation Center
+SUMMARY:SJHL @ MJHL
+DESCRIPTION:\nTournament: Western All-Star Challenge\nLocal Time: 7:30 PM CST\nArena:Martensville Recreation Center\nhttps://www.google.com/maps?q=Martensville+Recreation+Center
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=America/Halifax:20251104T193000
+DTEND;TZID=America/Halifax:20251104T210000
+DTSTAMP:20251104T184430
+UID:Game_122246770_Rinknet
+SEQUENCE:57579
+LOCATION:Rath Eastlink Community Centre
+SUMMARY:USA U17 @ Can U17 Red
+DESCRIPTION:\nTournament: World U17 Challenge\nLocal Time: 7:30 PM AST\nArena:Rath Eastlink Community Centre\nhttps://www.google.com/maps?q=Rath+Eastlink+Community+Centre
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=America/New_York:20251104T204500
+DTEND;TZID=America/New_York:20251104T221500
+DTSTAMP:20251104T184430
+UID:Game_-49694804_Rinknet
+SEQUENCE:57579
+LOCATION:N/A
+SUMMARY:Miss. Senators @ Tor Marlboro
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=America/New_York:20251104T204500
+DTEND;TZID=America/New_York:20251104T221500
+DTSTAMP:20251104T184430
+UID:Game_-49694803_Rinknet
+SEQUENCE:57579
+LOCATION:N/A
+SUMMARY:Toronto Titans @ Vaughan
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=America/New_York:20251104T205500
+DTEND;TZID=America/New_York:20251104T222500
+DTSTAMP:20251104T184430
+UID:Game_-49694802_Rinknet
+SEQUENCE:57579
+LOCATION:Scotiabank Pond
+SUMMARY:Miss. Reps @ Toronto Jr. Canadiens
+DESCRIPTION:\nLocal Time: 8:55 PM EST\nArena:Scotiabank Pond\nhttps://www.google.com/maps?q=Scotiabank+Pond\nDriving Instructions:\n\nFrom Downtown Toronto: \nUniversity Ave. north approx. 4.5 km to St. Clair Avenue. Turn left on St. Clair Ave. and proceed west approx. 1.5 km to Bathurst Street. Turn right on Bathurst St. and proceed north approx. 2 km to Eglinton Avenue. Turn left on Eglinton Ave. and proceed west approx. 0.75 km to Allen Road. Turn right on Allen Rd. and proceed north approx. 6.25 km to Sheppard Avenue. Turn left on Sheppard Ave. and proceed west approx. 2.5 km to John Drury Drive. Turn left on John Drury Dr. and proceed approx. 0.25 km to Carl Hall Road. Turn left on Carl Hall Rd. and proceed east approx. 0.4 km to arena on the right (just past railroad tracks).\n\nFrom Keele Street: \nEast on Sheppard Ave. approx. 2.5 km to 1st traffic light (John Drury Drive). Turn right on John Drury Dr. proceed and proceed approx. 0.25 km to stop sign (Carl Hall Road). Turn left on Carl Hall Rd. and proceed approx. 0.4 km to arena on the right (just past railroad tracks).\n\nFrom the East (Oshawa): \nHwy-401 to Hwy-401 Express West. Continue west on Hwy-401 Express approx. 33 km to Allen Rd. (exit 365). Merge onto Allen Rd. north and proceed approx. 2.75 km to Sheppard Avenue. Turn left on Sheppard Ave. and proceed west approx. 2.5 km to John Drury Drive. Turn left on John Drury Dr. and proceed approx. 0.25 km to Carl Hall Road. Turn left on Carl Hall Rd. and proceed east approx. 0.4 km to arena on the right (just past railroad tracks).\n\nFrom the West (Kitchener): \nHwy-401 east to Hwy-401 Express East. Continue east of Hwy-401 Express approx. 6.5 km to Hwy-401 East. Continue east of Hwy-401 approx. 4.75 km to Hwy-401 Express East. Continue east of Hwy-401 Express approx. 5 km to Hwy-401 Collectors East. Continue east on Hwy-401 Collectors approx. 1.5 km to Keele St. (exit 362). Turn left on Keele St. and proceed north approx. 2.75 km to Sheppard Avenue. Turn right on Sheppard Ave. and proceed approx. 0.5 km to John Drury Drive. Turn right on John Drury Dr. and proceed approx. 0.25 km to Carl Hall Road. Turn left on Carl Hall Rd. and proceed east approx. 0.4 km to arena on the right (just past railroad tracks).
+END:VEVENT
+END:VCALENDAR
